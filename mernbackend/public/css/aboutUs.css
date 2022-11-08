@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(10, 53, 96);
+}
+.container-outer{
+    /* border: 2px solid rgb(248, 43, 43); */
+    height: 0px;
+    width: 1000px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0px auto;
+    position: relative;
+    color: white;
+}
+.container-inner{
+    margin: 100px auto;
+    /* border: 1px solid rgb(153, 151, 151); */
+    /* background-color: rgb(228, 228, 228); */
+    border-radius: 5px;
+    position: absolute;
+}
+.container-inner-img{
+    width: 95%;
+    height: 20%;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.div-para{
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size:larger;
+}
+.behind{
+    margin: 75px 0px;
+    font-size: xx-large;
+}
+.bg-aboutus{
+    background-color: rgb(10, 53, 96);
+}
